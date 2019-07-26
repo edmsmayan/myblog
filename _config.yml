@@ -1,8 +1,8 @@
 title: my awesome blog
 author: Phan Minh Trung
-email:""
-description:""
-github_username:
+email:trungpm.vi@gmail.com
+description: my blog
+github_username: edmsmayan
 
 markdown: kramdown
 theme: minima
